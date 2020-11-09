@@ -1,1 +1,1 @@
-# covid19project
+Pandemic Simulation Model
